@@ -12,8 +12,12 @@ The Stores table contains the 50 Maven Toys store location with fields containin
 The Inventory table contains over 1500 records that represent the stock on hand of each product in each store at the current point in time (Oct 1, 2018) and fields in the table are store id, product id and stock on hand
 # Queries of the project:
 Q1: Which product categories drive the biggest profits? Is this the same across store locations?
+
 Q2: How much money is tied up in inventory at the toy stores? 
+
 Q3: Most sale transactions (volume) by product category and location.
+
 Q4: Top 10 most revenue stores
+
 Q5: Bottom 10 least revenue stores
-Q6: Toys trends based on monthly/annual purchase per location
+

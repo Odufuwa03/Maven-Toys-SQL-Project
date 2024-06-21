@@ -1,7 +1,7 @@
 # Maven-Toys-SQL-Project
-Hello Everyone,
-I’m excited to share my recent SQL project titled “Maven Toys Data Analysis”.
-Project Description:
+# Hello Everyone,
+# I’m excited to share my recent SQL project titled “Maven Toys Data Analysis”.
+# Project Description:
 This project uses SQL to analyze the dataset of a toy store.
 The object of the project is to gain valuable insights into the store’s operation, products and location.
 The goal of the project is to answer a set of questions about the store’s business performance and help in its growth by making better decisions.
